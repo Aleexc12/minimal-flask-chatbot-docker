@@ -1,7 +1,5 @@
 MINIMAL FLASK CHATBOT (DOCKER VERSION)  
 
-![Chatbot Screenshot](imgs/image.png)
-
 This is a Dockerized version of the Minimal Flask Chatbot, allowing users to run the chatbot without manually setting up dependencies or installing Python packages.  
 Instead, everything is packaged into a Docker image, making it easy to deploy anywhere.
 
