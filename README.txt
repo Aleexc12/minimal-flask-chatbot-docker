@@ -4,10 +4,10 @@ This is a Dockerized version of the Minimal Flask Chatbot, allowing users to run
 Instead, everything is packaged into a Docker image, making it easy to deploy anywhere.
 
 This image was built using the source code from the original repository:  
-[Minimal Flask Chatbot (Source Code)](https://github.com/Aleexc12/minimal-flask-chatbot)
+https://github.com/Aleexc12/minimal-flask-chatbot
 
 The prebuilt Docker image is available on Docker Hub:  
-[aleexc12/minimal-flask-chatbot](https://hub.docker.com/r/aleexc12/minimal-flask-chatbot)
+https://hub.docker.com/r/aleexc12/minimal-flask-chatbot
 
 FEATURES  
 
