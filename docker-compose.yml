@@ -1,0 +1,6 @@
+services:
+  chatbot:
+    image: aleexc12/minimal-flask-chatbot:latest  # Usa la imagen de Docker Hub
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
