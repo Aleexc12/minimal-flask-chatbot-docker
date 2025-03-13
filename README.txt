@@ -59,7 +59,7 @@ CONTRIBUTING
 Feel free to fork this repository and improve the project. Contributions are welcome.  
 
 If you want to modify the code, check the original repo:  
-[Minimal Flask Chatbot (Source Code)](https://github.com/Aleexc12/minimal-flask-chatbot)
+https://github.com/Aleexc12/minimal-flask-chatbot
 
 LICENSE  
 This project is licensed under the MIT License.
